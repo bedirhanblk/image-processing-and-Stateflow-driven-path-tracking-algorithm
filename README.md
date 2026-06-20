@@ -10,3 +10,27 @@ For landing, it includes the “buraya_kadar_bekir” “pist_bulmaca” and “
 An example line:
 
 <img width="1132" height="697" alt="image" src="https://github.com/user-attachments/assets/a16a771b-b519-493f-b0a6-c345f18d82f2" />
+
+
+
+https://github.com/user-attachments/assets/a91f1f2a-44ac-4867-a0b9-a8363c704c20
+
+
+
+
+
+https://github.com/user-attachments/assets/b24e1e4d-863c-467e-9264-61277d3634c3
+
+
+
+
+
+https://github.com/user-attachments/assets/194b8b6d-9032-4efa-9c99-b66dfdc279be
+
+
+
+
+
+https://github.com/user-attachments/assets/3a08f75a-b818-4d63-97bf-6f552a084a58
+
+
