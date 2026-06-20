@@ -7,5 +7,6 @@ Development of a line-following algorithm for the MathWorks Minidrone Competitio
 "Bekle": For cases where the desired altitude has not been reached or a red zone cannot be found.
 "yol_gozumu_dagliyor”: This is the main line-following algorithm and includes the “takip” state (for moving straight when the path ahead is clear enough), as well as the ‘yol_goster’ and “donuyoruz” states for use at corners.
 For landing, it includes the “buraya_kadar_bekir” “pist_bulmaca” and “inelim” states.
+An example line:
 
 <img width="1132" height="697" alt="image" src="https://github.com/user-attachments/assets/a16a771b-b519-493f-b0a6-c345f18d82f2" />
