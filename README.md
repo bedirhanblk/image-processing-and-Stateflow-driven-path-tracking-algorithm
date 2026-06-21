@@ -13,9 +13,6 @@ An example line:
 
 
 
-https://github.com/user-attachments/assets/a91f1f2a-44ac-4867-a0b9-a8363c704c20
-
-
 
 
 
